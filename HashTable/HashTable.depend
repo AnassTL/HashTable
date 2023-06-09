@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685265033 source:c:\users\asus\desktop\programms_in_c\hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+
+1685368141 source:c:\users\asus\desktop\s4\hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+
